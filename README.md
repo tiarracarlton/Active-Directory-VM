@@ -7,18 +7,13 @@ This project demonstrates a basic Active Directory setup using **Windows Server 
 - Windows Server 2025
 - Active Directory Domain Services (AD DS)
 - PowerShell scripts for automation
-- Virtualization platform (VirtualBox / VMware)
+- Virtualization platform (VirtualBox)
 
 ## Project Features
 - Domain setup and configuration
 - Organizational Units (OUs) and Group Policy Objects (GPOs)
 - User and group management
 - Basic security settings
-
-## Screenshots
-![Domain Setup](images/domain_setup.png)
-![Group Policies](images/gpo_example.png)
-*Add more screenshots as needed to showcase your project*
 
 ## Lessons Learned
 - Understanding of Active Directory structure and domain hierarchy
